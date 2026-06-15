@@ -1,0 +1,731 @@
+# Блоки
+
+tile.fcBlockArcaneVessel.name=Посудина дракона
+tile.fcBlockScrewPump.name=Шнековий насос
+tile.FCBlockFarmlandFertilized.name=Рілля
+tile.fcBlockWoolSlab.name=Вовняна плита
+tile.fcBlockGroth.name=Пекельна желвь
+tile.fcBlockInfernalEnchanter.name=Інфернальний зачарователь
+tile.fcBlockSoulforgedSteel.name=Блок сталі душ
+# tile.fcBlockDetectorLogicGlowing.name=Glowing Detector Logic
+tile.fcBlockBloodWoodLeaves.name=Криваве листя
+tile.fcBlockBloodWood.name=Криваве дерево
+tile.fcBlockMiningCharge.name=Гірський заряд
+tile.fcBlockBuddyBlock.name=Спостерігач
+tile.fcBlockKiln.name=Піч для обпалу
+tile.fcBlockAnvil.name=Кузня душ
+tile.fcBlockLightBlock.name=Освітлювальний блок
+tile.fcBlockHibachi.name=Хібачи
+tile.fcBlockHopper.name=Лійка
+tile.fcBlockSaw.name=Пилка
+tile.fcBlockPlatform.name=Платформа
+tile.fcBlockCement.name=Цемент
+tile.fcBlockPulley.name=Шків
+tile.fcBlockWoodOakMoulding.name=Старий молдінг
+tile.fcBlockWoodOakMoulding.moulding.name=Старий молдінг
+tile.fcBlockCorner.name=Старий уголок
+tile.fcBlockBlockDispenser.name=Роздавач блоків
+tile.fcBlockCauldron.name=Казан
+tile.fcBlockDetectorBlock.name=Детектор
+# tile.fcBlockDetectorLogic.name=Detector Logic
+tile.fcBlockLens.name=Лінза
+tile.fcBlockHemp.name=Конопля
+tile.fcBlockHandCrank.name=Ручка
+tile.fcBlockMillStone.name=Жорно
+tile.fcBlockAnchor.name=Якір
+tile.fcBlockRope.name=Мотузка
+tile.fcBlockOmniSlab.name=Старий сайдінг
+tile.fcBlockAxle.name=Вал
+tile.fcBlockAxlePowerSource.name=Обертовий вал
+tile.fcBlockGearBox.name=Муфта
+tile.fcBlockTurntable.name=Поворотний стіл
+tile.fcBlockBellows.name=Міхи
+tile.fcBlockStokedFire.name=Роздмуханий вогонь
+tile.fcBlockUnfiredPottery.name=Необпалена керамика
+tile.fcBlockCrucible.name=Тигель
+tile.fcBlockPlanter.name=Горщик
+tile.fcBlockVase.name=Ваза
+tile.fcBlockDetectorRailWood.name=Рейки з датчиком
+tile.fcBlockDetectorRailSoulforgedSteel.name=Рейки з датчиком
+tile.fcBlockRottenFlesh.name=Блок гнилої плоті
+tile.fcBlockSoulforgeDormant.name=Спляча кузня душ
+tile.fcBlockSmoothstoneStairs.name=Кам'яні сходи
+tile.fcBlockRottenFleshSlab.name=Плита з гнилої плоті
+tile.fcBlockBoneSlab.name=Плита з костей
+tile.fcBlockPumpkinFresh.name=Гарбуз
+tile.fcBlockWoodBloodStairs.name=Сходи з кривавої деревини
+tile.fcBlockLogDamaged.name=Пошкоджена деревина
+# tile.fcBlockLogDamagedSpruce.name=Chewed Spruce Log
+# tile.fcBlockLogDamagedBirch.name=Chewed Birch Log
+# tile.fcBlockLogDamagedJungle.name=Chewed Jungle Log
+tile.fcBlockDirtLoose.name=Пухка земля
+tile.fcBlockDirtLooseSlab.name=Пухка земляна плита
+tile.fcBlockCampfire.name=Багаття
+tile.fcBlockUnfiredBrick.name=Сира цегла
+tile.fcBlockCookedBrick.name=Цегла
+tile.fcBlockBrickLoose.name=Хитка цегла 
+tile.fcBlockBrickLooseSlab.name=Хитка цегляна плита
+tile.fcBlockCobblestoneLoose.name=Пухкий кругляк
+tile.fcBlockCobblestoneLooseSlab.name=Плита з пухкого кругляку
+tile.fcBlockLooseFurnaceBrick.name=Цегляна пічь
+tile.fcBlockTorchFiniteIdle.name=Грубий смолоскип
+tile.fcBlockTorchFiniteBurning.name=Палаючий грубий смолоскип
+tile.fcBlockStoneRough.name=Грубий камінь
+tile.fcBlockWorkStump.name=Пень-верстак
+tile.fcBlockBasketWicker.name=Кошик
+# tile.fcBlockLogSpike.name=Log Spike
+# tile.fcBlockLogSpikeSpruce.name=Spruce Log Spike
+# tile.fcBlockLogSpikeBirch.name=Birch Log Spike
+# tile.fcBlockLogSpikeJungle.name=Jungle Log Spike
+tile.fcBlockTorchIdle.name=Незапалений смолоскип
+tile.fcBlockUnfiredClay.name=Сира глина
+tile.fcBlockMyceliumSlab.name=Плита з міцелію
+tile.fcBlockBrickLooseStairs.name=Нескріплені цегляні сходи
+tile.fcBlockCobblestoneLooseStairs.name=Нескріплені сходи з бруківки
+tile.fcBlockLogSmouldering.name=Тліюче дерево
+# tile.fcBlockWoodCinders.name=Cinders
+tile.fcBlockStumpCharred.name=Обвуглений пень
+tile.fcBlockAshGroundCover.name=Попіл
+tile.fcBlockSnowLoose.name=Пухкий сніг
+tile.fcBlockSnowLooseSlab.name=Пухка снігова плита
+tile.fcBlockSnowSolid.name=Сніг
+tile.fcBlockSnowSolidSlab.name=Снігова плита
+tile.fcBlockLadder.name=Драбина
+tile.fcBlockLadderOnFire.name=Палаюча драбина
+tile.fcBlockShovel.name=Поршнева лопата
+tile.fcBlockHamper.name=Великий кошик
+tile.fcBlockCreeperOysters.name=Блок із ракушок кріпера
+tile.fcBlockCreeperOystersSlab.name=Плита з ракушок кріпера
+tile.fcBlockTorchNetherBurning.name=Палаючий смолоскип
+tile.fcBlockRedstoneClutch.name=Блокувальна муфта
+tile.fcBlockSpikeIron.name=Залізний шип
+
+tile.fcBlockLightningRod.name=Громовідвід
+
+tile.fcBlockStoneBrickLoose.name=Блок із нескріпленої кам’яної цегли
+tile.fcBlockStoneBrickLooseSlab.name=Плита з нескріпленої кам’яної цегли
+tile.fcBlockStoneBrickLooseStairs.name=Сходи з нескріпленої кам’яної цегли
+
+tile.fcBlockNetherBrickLoose.name=Нескріплена пекельна цегла
+tile.fcBlockNetherBrickLooseSlab.name=Плита з нескріпленої пекельної цегли
+tile.fcBlockNetherBrickLooseStairs.name=Сходи з нескріпленої пекельної цегли
+
+tile.fcBlockNetherrackFalling.name=Падающий адский камень
+tile.fcBlockLavaPillow.name=Лавова подушка
+tile.fcBlockChunkOreStorageIron.name=Блок залізної руди
+tile.fcBlockChunkOreStorageGold.name=Блок золотої руди
+tile.fcBlockWicker.name=Плетений блок
+tile.fcBlockWickerSlab.name=Плетена плита
+tile.fcBlockWickerPane.name=Плетена панель
+tile.fcBlockGrate.name=Решітка
+tile.fcBlockSlats.name=Планки
+tile.fcBlockFarmlandNew.name=Рілля
+tile.fcBlockPlanterSoil.name=Горщик із землею
+
+tile.fcBlockSilverfishStone.name=Заражений камінь
+tile.fcBlockSilverfishStone2.name=Заражений камінь
+tile.fcBlockSilverfishStone3.name=Заражений камінь
+tile.fcBlockSilverfishCobblestone.name=Заражена бруківка
+tile.fcBlockSilverfishStoneBrick.name=Заражена кам’яна цегла
+tile.fcBlockSilverfishStoneBrickMossy.name=Заражена замшіла кам’яна цегла
+tile.fcBlockSilverfishStoneCracked.name=Заражена потріскана кам’яна цегла
+tile.fcBlockSilverfishStoneChiseled.name=Заражена різьблена кам’яна цегла
+
+tile.fcBlockClay.name=Поклади глини
+tile.fcBlockGrassSlab.name=Трав’яна плита
+tile.fcBlockBedroll.name=Спальний мішок
+tile.fcBlockSpiderEye.name=Блок із павучих очей
+tile.fcBlockSpiderEyeSlab.name=Плита з павучих очей
+
+tile.fcBlockSaplingOak.name=Саджанець дуба
+tile.fcBlockSaplingOak.mature.name=Зрілий саджанець дуба
+tile.fcBlockSaplingSpruce.name=Саджанець ялини
+tile.fcBlockSaplingSpruce.mature.name=Зрілий саджанець ялини
+tile.fcBlockSaplingBirch.name=Саджанець берези
+tile.fcBlockSaplingBirch.mature.name=Зрілий саджанець берези
+tile.fcBlockSaplingJungle.name=Саджанець тропічного дерева
+tile.fcBlockSaplingJungle.mature.name=Зрілий саджанець тропічного дерева
+
+# tile.fcBlockMushroomCap.name=Mushroom Block
+tile.fcBlockLoom.name=Прядка
+
+tile.fcBlockCompanionCube.cube.name=Куб-компаньйон
+tile.fcBlockCompanionCube.slab.name=Плита-компаньйон
+
+# tile.fcBlockAestheticOpaque.name=Aesthetic Opaque
+tile.fcBlockAestheticOpaque.wicker.name=Старий плетений блок
+tile.fcBlockAestheticOpaque.dung.name=Старий гній
+tile.fcBlockAestheticOpaque.steel.name=Блок зі сталі душ
+tile.fcBlockAestheticOpaque.hellfire.name=Блок концентрованого пекельного полум’я
+tile.fcBlockAestheticOpaque.padding.name=Блок із підкладки
+tile.fcBlockAestheticOpaque.soap.name=Блок мила
+tile.fcBlockAestheticOpaque.rope.name=Бобіна з мотузкою
+tile.fcBlockAestheticOpaque.flint.name=Блок із кременю
+tile.fcBlockAestheticOpaque.whitestone.name=Білий камінь
+tile.fcBlockAestheticOpaque.whitecobble.name=Білий бруківник
+tile.fcBlockAestheticOpaque.barrel.name=Бочка
+tile.fcBlockAestheticOpaque.choppingblock.name=Плахa
+tile.fcBlockAestheticOpaque.enderblock.name=Камінь Енду
+tile.fcBlockAestheticOpaque.bone.name=Кістяний блок
+
+# tile.fcBlockAestheticNonOpaque.name=Aesthetic Non Opaque
+tile.fcBlockAestheticNonOpaque.urn.name=Урна
+tile.fcBlockAestheticNonOpaque.column.name=Стара колона
+tile.fcBlockAestheticNonOpaque.pedestal.name=Старий п’єдестал
+tile.fcBlockAestheticNonOpaque.table.name=Старий стіл
+tile.fcBlockAestheticNonOpaque.wickerslab.name=Стара плетена плита
+tile.fcBlockAestheticNonOpaque.whitecobbleslab.name=Плита з білого бруківника
+tile.fcBlockAestheticNonOpaque.lightningrod.name=Старий громовідвід зі сталі душ
+
+# tile.fcBlockAestheticVegetation.name=Aesthetic Vegetation
+tile.fcBlockAestheticVegetation.vinetrap.name=Пастка з лози
+tile.fcBlockAestheticVegetation.bloodwoodsapling.name=Саджанець кривавого дерева
+tile.fcBlockAestheticVegetation.bloodleaves.name=Криваве листя
+
+tile.fcWoodSpruceSiding.oak.name=Дубовий сайдинг
+tile.fcWoodSpruceSiding.spruce.name=Ялиновий сайдинг
+tile.fcWoodSpruceSiding.birch.name=Березовий сайдинг
+tile.fcWoodSpruceSiding.jungle.name=Сайдинг з тропічного дерева
+tile.fcWoodSpruceSiding.blood.name=Сайдинг з кривавого дерева
+
+tile.fcWoodSpruceMoulding.oak.name=Дубовий молдинг
+tile.fcWoodSpruceMoulding.spruce.name=Ялиновий молдинг
+tile.fcWoodSpruceMoulding.birch.name=Березовий молдинг
+tile.fcWoodSpruceMoulding.jungle.name=Молдинг з тропічного дерева
+tile.fcWoodSpruceMoulding.blood.name=Молдинг з кривавого дерева
+
+tile.fcWoodBirchSiding.oak.name=Дубовий куточок
+tile.fcWoodBirchSiding.spruce.name=Ялиновий куточок
+tile.fcWoodBirchSiding.birch.name=Березовий куточок
+tile.fcWoodBirchSiding.jungle.name=Куточок з тропічного дерева
+tile.fcWoodBirchSiding.blood.name=Куточок з кривавого дерева
+
+tile.fcWoodBirchMoulding.oak.pedestal.name=Дубовий п’єдестал
+tile.fcWoodBirchMoulding.spruce.pedestal.name=Ялиновий п’єдестал
+tile.fcWoodBirchMoulding.birch.pedestal.name=Березовий п’єдестал
+tile.fcWoodBirchMoulding.jungle.pedestal.name=П’єдестал з тропічного дерева
+tile.fcWoodBirchMoulding.blood.pedestal.name=П’єдестал з кривавого дерева
+
+tile.fcWoodBirchMoulding.oak.column.name=Дубова колона
+tile.fcWoodBirchMoulding.spruce.column.name=Ялинова колона
+tile.fcWoodBirchMoulding.birch.column.name=Березова колона
+tile.fcWoodBirchMoulding.jungle.column.name=Колона з тропічного дерева
+tile.fcWoodBirchMoulding.blood.column.name=Колона з кривавого дерева
+
+tile.fcWoodBirchMoulding.oak.table.name=Дубовий стіл
+tile.fcWoodBirchMoulding.spruce.table.name=Ялиновий стіл
+tile.fcWoodBirchMoulding.birch.table.name=Березовий стіл
+tile.fcWoodBirchMoulding.jungle.table.name=Стіл з тропічного дерева
+tile.fcWoodBirchMoulding.blood.table.name=Стіл з кривавого дерева
+
+tile.fcWoodJungleSiding.oak.bench.name=Дубова лавка
+tile.fcWoodJungleSiding.spruce.bench.name=Ялинова лавка
+tile.fcWoodJungleSiding.birch.bench.name=Березова лавка
+tile.fcWoodJungleSiding.jungle.bench.name=Лавка з тропічного дерева
+tile.fcWoodJungleSiding.blood.bench.name=Лавка з кривавого дерева
+
+tile.fcWoodJungleSiding.oak.fence.name=Дубовий паркан
+tile.fcWoodJungleSiding.spruce.fence.name=Ялиновий паркан
+tile.fcWoodJungleSiding.birch.fence.name=Березовий паркан
+tile.fcWoodJungleSiding.jungle.fence.name=Паркан з тропічного дерева
+tile.fcWoodJungleSiding.blood.fence.name=Паркан з кривавого дерева
+
+# tile.fcBlockSidingBlackStone.name=Siding And Corner
+tile.fcBlockSidingBlackStone.siding.name=Сайдинг з чорного каменю
+tile.fcBlockSidingBlackStone.corner.name=Куточок з чорного каменю
+tile.fcBlockSidingBlackStone.bench.name=Лава з чорного каменю
+tile.fcBlockSidingBlackStone.fence.name=Паркан з чорного каменю
+# tile.fcBlockMouldingBlackStone.name=Moulding And Decorative
+tile.fcBlockMouldingBlackStone.moulding.name=Молдинг з чорного каменю
+tile.fcBlockMouldingBlackStone.column.name=Колона з чорного каменю
+tile.fcBlockMouldingBlackStone.pedestal.name=П’єдестал з чорного каменю
+tile.fcBlockMouldingBlackStone.table.name=Стіл з чорного каменю
+
+# tile.fcStoneBrickSiding.name=Siding And Corner
+tile.fcStoneBrickSiding.siding.name=Сайдинг з кам’яної цегли
+tile.fcStoneBrickSiding.corner.name=Куточок з кам’яної цегли
+tile.fcStoneBrickSiding.bench.name=Лава з кам’яної цегли
+tile.fcStoneBrickSiding.fence.name=Паркан з кам’яної цегли
+# tile.fcStoneBrickMoulding.name=Moulding And Decorative
+tile.fcStoneBrickMoulding.moulding.name=Молдинг з кам’яної цегли
+tile.fcStoneBrickMoulding.column.name=Колона з кам’яної цегли
+tile.fcStoneBrickMoulding.pedestal.name=П’єдестал з кам’яної цегли
+tile.fcStoneBrickMoulding.table.name=Стіл з кам’яної цегли
+
+# tile.fcWhiteStoneSiding.name=Siding And Corner
+tile.fcWhiteStoneSiding.siding.name=Сайдинг з білого каменю
+tile.fcWhiteStoneSiding.corner.name=Куточок з білого каменю
+tile.fcWhiteStoneSiding.bench.name=Лава з білого каменю
+tile.fcWhiteStoneSiding.fence.name=Паркан з білого каменю
+# tile.fcWhiteStoneMoulding.name=Moulding And Decorative
+tile.fcWhiteStoneMoulding.moulding.name=Молдинг з білого каменю
+tile.fcWhiteStoneMoulding.column.name=Колона з білого каменю
+tile.fcWhiteStoneMoulding.pedestal.name=П’єдестал з білого каменю
+tile.fcWhiteStoneMoulding.table.name=Стіл з білого каменю
+tile.fcBlockWhiteStoneStairs.smooth.name=Сходи з білого каменю
+tile.fcBlockWhiteStoneStairs.cobble.name=Сходи з білого бруківки
+
+# tile.fcNetherBrickSiding.name=Siding And Corner
+tile.fcNetherBrickSiding.siding.name=Сайдинг з пекельної цегли
+tile.fcNetherBrickSiding.corner.name=Куточок з пекельної цегли
+tile.fcNetherBrickSiding.bench.name=Лава з пекельної цегли
+tile.fcNetherBrickSiding.fence.name=Паркан з пекельної цегли
+# tile.fcNetherBrickMoulding.name=Moulding And Decorative
+tile.fcNetherBrickMoulding.moulding.name=Молдинг з пекельної цегли
+tile.fcNetherBrickMoulding.column.name=Колона з пекельної цегли
+tile.fcNetherBrickMoulding.pedestal.name=П’єдестал з пекельної цегли
+tile.fcNetherBrickMoulding.table.name=Стіл з пекельної цегли
+
+# tile.fcBrickSiding.name=Siding And Corner
+tile.fcBrickSiding.siding.name=Цегляний сайдинг
+tile.fcBrickSiding.corner.name=Цегляний куточок
+tile.fcBrickSiding.bench.name=Цегляна лавка
+tile.fcBrickSiding.fence.name=Цегляний паркан
+# tile.fcBrickMoulding.name=Moulding And Decorative
+tile.fcBrickMoulding.moulding.name=Цегляний молдинг
+tile.fcBrickMoulding.column.name=Цегляна колона
+tile.fcBrickMoulding.pedestal.name=Цегляний п’єдестал
+tile.fcBrickMoulding.table.name=Цегляний стіл
+
+# tile.fcStoneSiding.name=Siding And Corner
+tile.fcStoneSiding.siding.name=Кам’яний сайдинг
+tile.fcStoneSiding.corner.name=Кам’яний куточок
+tile.fcStoneSiding.bench.name=Кам’яна лавка
+tile.fcStoneSiding.fence.name=Кам’яний паркан
+# tile.fcStoneMoulding.name=Moulding And Decorative
+tile.fcStoneMoulding.moulding.name=Кам’яний молдинг
+tile.fcStoneMoulding.column.name=Кам’яна колона
+tile.fcStoneMoulding.pedestal.name=Кам’яний п’єдестал
+tile.fcStoneMoulding.table.name=Кам’яний стіл
+
+# tile.fcSandstoneSiding.name=Siding And Corner
+tile.fcSandstoneSiding.siding.name=Сайдинг із пісковика
+tile.fcSandstoneSiding.corner.name=Куточок із пісковика
+tile.fcSandstoneSiding.bench.name=Лава з пісковика
+tile.fcSandstoneSiding.fence.name=Паркан із пісковика
+# tile.fcSandstoneMoulding.name=Moulding And Decorative
+tile.fcSandstoneMoulding.moulding.name=Молдинг із пісковика
+tile.fcSandstoneMoulding.column.name=Колона з пісковика
+tile.fcSandstoneMoulding.pedestal.name=П’єдестал з пісковика
+tile.fcSandstoneMoulding.table.name=Стіл з пісковика
+
+# tile.fcBlockAestheticOpaqueEarth.name=Aesthetic Opaque Earth
+tile.fcBlockAestheticOpaqueEarth.blight.name=Чума
+tile.fcBlockAestheticOpaqueEarth.blight3.name=Зріла чума
+tile.fcBlockAestheticOpaqueEarth.packed.name=Щільна земля
+tile.fcBlockAestheticOpaqueEarth.dung.name=Блок гною
+tile.fcBlockSlabDirt.name=Земляна плита
+tile.fcBlockSlabDirt.grass.name=Трав’яна плита
+tile.fcBlockSlabDirt.packed.name=Щільна земляна плита
+tile.fcBlockSlabFalling.name=Гравійна плита
+tile.fcBlockSlabFalling.sand.name=Піщана плита
+
+# Items
+
+item.fcItemBucketCement.name=Відро з цементом
+item.fcItemWolfChopRaw.name=Сира вовчатина
+item.fcItemWolfChopCooked.name=Смажена вовчатина
+item.fcItemNethercoal.name=Пекельне вугілля
+item.fcItemSeedsHemp.name=Насіння конопель
+item.fcItemHemp.name=Коноплі
+item.fcItemGear.name=Шестерня
+item.fcItemFlour.name=Борошно
+item.fcItemFibersHemp.name=Пенька
+item.fcItemLeatherScoured.name=Очищена шкіра
+item.fcItemDonut.name=Пончик
+item.fcItemRope.name=Мотузка
+item.fcItemSlats.name=Старі планки
+item.fcItemDung.name=Гній
+item.fcItemWaterWheel.name=Водяне колесо
+item.fcItemBladeWindMill.name=Парус
+item.fcItemWindMill.name=Вітряк
+item.fcItempFabric.name=Палене м’ясо
+item.fcItemGrate.name=Стара решітка
+item.fcItemWicker.name=Стара плетена панель
+item.fcItemLeatherTanned.name=Виділена шкіра
+item.fcItemStrap.name=Смуга шкіри
+item.fcItemBelt.name=Ремінь
+item.fcItemFoulFood.name=Зіпсована їжа
+item.fcItemBladeWood.name=Лопать
+item.fcItemGlue.name=Клей
+item.fcItemTallow.name=Жир
+item.fcItemHaft.name=Руків’я
+item.fcItemIngotSteel.name=Злиток сталі душ
+item.fcItemPickAxeRefined.name=Кайло зі сталі душ
+item.fcItemShovelRefined.name=Лопата зі сталі душ
+item.fcItemHoeRefined.name=Мотика зі сталі душ
+item.fcItemAxeBattle.name=Бойова сокира зі сталі душ
+item.fcItemSwordRefined.name=Меч зі сталі душ
+item.fcItemNetherrackGround.name=Подрібнений пекельний камінь
+item.fcItemDustHellfire.name=Пил пекельного полум’я
+item.fcItemConcentratedHellfire.name=Концентрований вогонь пекла
+item.fcItemArmorPlate.name=Броньова пластина зі сталі душ
+item.fcItemHelmetPlate.name=Шолом зі сталі душ
+item.fcItemChestplatePlate.name=Нагрудник зі сталі душ
+item.fcItemLeggingsPlate.name=Поножі зі сталі душ
+item.fcItemBootsPlate.name=Черевики зі сталі душ
+item.fcItemBowComposite.name=Композитний лук
+item.fcItemArrowheadBroadhead.name=Бродхед
+item.fcItemArrowBroadhead.name=Стріла-бродхед
+item.fcItemDustCoal.name=Вугільний пил
+item.fcItemPadding.name=Підкладка
+item.fcItemFilament.name=Нитка
+item.fcItemRedstoneEye.name=Око з червоного пилу
+item.fcItemUrn.name=Урна
+item.fcItemUrnSoul.name=Урна душ
+item.fcItemEggPoached.name=Яйце пашот
+item.fcItemPotash.name=Поташ
+item.fcItemSoap.name=Мило
+item.fcItemDustSaw.name=Тирса
+item.fcItemGimpHelm.name=Шкіряна маска
+item.fcItemGimpChest.name=Шкіряний жилет
+item.fcItemGimpLeggings.name=Шкіряні штани
+item.fcItemGimpBoots.name=Байкерські чоботи
+item.fcItemDynamite.name=Динаміт
+item.fcItemHarnessBreeding.name=Племінна збруя
+item.fcItemDustSoul.name=Пил душ
+item.fcItemMattock.name=Кирколопата
+item.fcItemHatchetRefined.name=Сокира зі сталі душ
+item.fcItemNetherSludge.name=Пекельний шлам
+item.fcItemBrickNether.name=Пекельна цегла
+item.fcItemTuningFork.name=Камертон
+item.fcItemScrollArcane.name=Чарівний сувій
+item.fcItemCandle.name=Свічка
+item.fcItemSporesNetherGroth.name=Спори пекельної желви
+item.fcItemMould.name=Ливарна форма
+item.fcItemCanvas.name=Полотно
+item.fcItemKibble.name=Корм для собак
+item.fcItemEggRaw.name=Сире яйце
+item.fcItemEggFried.name=Яєчня
+item.fcItemScrew.name=Шнек
+item.fcItemArrowRotten.name=Гнила стріла
+item.fcItemOcularOfEnder.name=Окуляр Енду
+item.fcItemEnderSpectacles.name=Окуляри Енду
+item.fcItemStake.name=Маркерний кілок
+item.fcItemBrimstone.name=Сірка
+item.fcItemNitre.name=Селітра
+item.fcItemElement.name=Стихія
+item.fcItemFuse.name=Гніт
+item.fcItemBlastingOil.name=Нітрогліцерин
+item.fcItemWindMillVertical.name=Вітряк
+item.fcItemPotatoBoiled.name=Варена картопля
+item.fcItemMuttonRaw.name=Сира баранина
+item.fcItemMuttonCooked.name=Смажена баранина
+item.fcItemWitchWart.name=Відьомський наріст
+item.fcItemCarrotCooked.name=Варена морква
+item.fcItemSandwichTasty.name=Смачний бутерброд
+item.fcItemSteakAndPotatoes.name=Стейк з картоплею
+item.fcItemHamAndEggs.name=Яєчня з шинкою
+item.fcItemDinnerSteak.name=Вечеря зі стейком
+item.fcItemDinnerPork.name=Вечеря зі свининою
+item.fcItemDinnerWolf.name=Вечеря з вовчатини
+item.fcItemKebabRaw.name=Сирий кебаб
+item.fcItemKebabCooked.name=Смажений кебаб
+item.fcItemSoupChicken.name=Курячий суп
+item.fcItemChowder.name=Рибна юшка
+item.fcItemStewHearty.name=Ситне рагу
+item.fcItemMushroomRed.name=Гриб
+item.fcItemMushroomBrown.name=Гриб
+item.fcItemNuggetIron.name=Залізний самородок
+item.fcItemMail.name=Кольчуга
+item.fcItemMysteryMeatRaw.name=Сире загадкове м’ясо
+item.fcItemMysteryMeatCooked.name=Смажене загадкове м’ясо
+item.fcItemMushroomOmletRaw.name=Сирий грибний омлет
+item.fcItemMushroomOmletCooked.name=Смажений грибний омлет
+item.fcItemEggScrambledRaw.name=Сирий омлет
+item.fcItemEggScrambledCooked.name=Смажений омлет
+item.fcItemCreeperOysters.name=Ракушки кріпера
+item.fcItemWoolHelm.name=Вовняна шапочка
+item.fcItemWoolChest.name=Вовняний жакет
+item.fcItemWoolLeggings.name=Вовняні штани
+item.fcItemWoolBoots.name=Вовняні шкарпетки
+item.fcItemPaddedHelm.name=Шолом з підкладки
+item.fcItemPaddedChest.name=Куртка з підкладки
+item.fcItemPaddedLeggings.name=Штани з підкладки
+item.fcItemPaddedBoots.name=Черевики з підкладки
+item.fcItemTannedHelm.name=Шолом з виділеної шкіри
+item.fcItemTannedChest.name=Куртка з виділеної шкіри
+item.fcItemTannedLeggings.name=Штани з виділеної шкіри
+item.fcItemTannedBoots.name=Черевики з виділеної шкіри
+item.fcItemIngotDiamond.name=Алмазний злиток
+item.fcItemLeatherCut.name=Розрізана шкіра
+item.fcItemLeatherTannedCut.name=Виділена розрізана шкіра
+item.fcItemLeatherScouredCut.name=Очищена розрізана шкіра
+item.fcItemFishingRodBaited.name=Вудка з наживкою
+item.fcItemPileDirt.name=Жменя землі
+item.fcItemPileSand.name=Жменя піску
+item.fcItemPileGravel.name=Жменя гравію
+item.fcItemBatWing.name=Крило кажана
+item.fcItemDungGolden.name=Золотий гній
+item.fcItemPileSoulSand.name=Жменя піску душ
+item.fcItemRedstoneLatch.name=Засувка з червоного пилу
+item.fcItemNuggetSteel.name=Самородок сталі душ
+item.fcItemWool.name=Вовна
+item.fcItemCocoaBeans.name=Какао-боби
+item.fcItemChocolate.name=Шоколад
+item.fcItemBucketChocolateMilk.name=Шоколадне молоко
+item.fcItemSoulFlux.name=Флюс душ
+item.fcItemEnderSlag.name=Шлак Енду
+item.fcItemPastryUncookedCake.name=Тісто для торта
+item.fcItemPastryUncookedCookies.name=Тісто для печива
+item.fcItemPastryUncookedPumpkinPie.name=Сирий гарбузовий пиріг
+item.fcItemMysteriousGland.name=Загадкова залоза
+item.fcItemBeastLiverRaw.name=Печінка звіра
+item.fcItemBeastLiverCooked.name=Смажена печінка
+item.fcItemAncientProphecy.name=Уривок пророцтва
+item.fcItemStumpRemover.name=Викорчовувач пнів
+item.fcItemChiselWood.name=Кілок
+item.fcItemStone.name=Камінь
+item.fcItemChiselStone.name=Різець
+item.fcItemClub.name=Дерев’яна дубина
+item.fcItemFireStarterSticks.name=Ручне свердло
+item.fcItemFireStarterBow.name=Лучкове свердло
+item.fcItemChunkIronOre.name=Шматок залізної руди
+item.fcItemPileIronOre.name=Залізний пил
+item.fcItemChiselIron.name=Залізне зубило
+item.fcItemChunkGoldOre.name=Шматок золотої руди
+item.fcItemPileGoldOre.name=Золотий пил
+item.fcItemWickerPiece.name=Плетінка
+item.fcItemKnittingNeedles.name=В’язальні спиці
+item.fcItemKnitting.name=В’язання
+item.fcItemWoolKnit.name=Вовняна тканина
+item.fcItemClubBone.name=Кістяна дубина
+item.fcItemMeatCured.name=В’ялене м’ясо
+item.fcItemMetalFragment.name=Металобрухт
+item.fcItemPileClay.name=Жменя глини
+item.fcItemMeatBurned.name=Спалене м’ясо
+item.fcItemChickenFeed.name=Корм для курей
+item.fcItemFishHookBone.name=Кістяний гачок
+item.fcItemCarvingBone.name=Заготовка гачка
+item.fcItemBrickStone.name=Кам’яна цегла
+item.fcItemWickerWeaving.name=Плетіння
+item.fcItemWheat.name=Пшениця
+item.fcItemWheatSeeds.name=Насіння пшениці
+item.fcItemBreadDough.name=Хлібне тісто
+item.fcItemStraw.name=Солома
+item.fcItemBrickUnfired.name=Сира цегла
+item.fcItemBrickNetherUnfired.name=Сира пекельна цегла
+item.fcItemChiselDiamond.name=Алмазне зубило
+item.fcItemShearsDiamond.name=Алмазні ножиці
+item.fcItemReedRoots.name=Коріння цукрової тростини
+item.fcItemCarrot.name=Морква
+item.fcItemCarrotSeeds.name=Насіння моркви
+item.fcItemDiamondPlate.name=Алмазна броньова пластина
+item.fcItemMelonMashed.name=Кавунове пюре
+item.fcItemBedroll.name=Спальний мішок
+item.fcItemCorpseEye.name=Око мерця
+item.fcItemTangledWeb.name=Сплутана павутина
+item.fcItemWebUntangling.name=Розплутування павутини
+item.fcItemSinew.name=Жила
+item.fcItemSinewExtractingBeef.name=Витягування жили
+item.fcItemSinewExtractingWolf.name=Витягування жили
+item.fcItemBark.name=Кора
+item.fcItemBark.oak.name=Дубова кора
+item.fcItemBark.spruce.name=Ялинова кора
+item.fcItemBark.birch.name=Березова кора
+item.fcItemBark.jungle.name=Кора тропічного дерева
+item.fcItemBark.bloodwood.name=Кора кривавого дерева
+
+# Vanilla blocks
+
+tile.tnt.name=Порохова бочка
+tile.mushroom.name=Старий гриб
+
+tile.anvil.intact.name=Мертвий вантаж
+tile.anvil.slightlyDamaged.name=Мертвий вантаж
+tile.anvil.veryDamaged.name=Мертвий вантаж
+
+tile.stairsQuartz.name=Сходи з чорного каменю
+tile.stoneSlab.quartz.name=Плита з чорного каменю
+tile.quartzBlock.default.name=Чорний камінь
+tile.quartzBlock.chiseled.name=Різьблений чорний камінь
+tile.quartzBlock.lines.name=Стовп з чорного каменю
+
+tile.pumpkin.name=Вирізаний гарбуз
+tile.wood.blood.name=Дошки з кривавої деревини
+tile.woodSlab.blood.name=Плита з кривавої деревини
+
+tile.torch.name=Старий смолоскип
+tile.stone.name=Гладкий камінь
+
+tile.sapling.oakMature.name=Зрілий саджанець дуба
+tile.sapling.spruceMature.name=Зрілий саджанець ялини
+tile.sapling.birchMature.name=Зрілий саджанець берези
+tile.sapling.jungleMature.name=Зрілий саджанець тропічного дерева
+
+# Vanilla items
+
+item.cauldron.name=Бак
+item.mushroomStew.name=Грибний крем-суп
+item.enchantedBook.name=Стародавній манускрипт
+# item.fireworks.name=Вогкий феєрверк
+item.stick.name=Держак
+item.fermentedSpiderEye.name=Отруйна залоза
+item.dyePowder.brown.name=Какао-порошок
+item.skull.wither.name=Рунічний череп
+item.skull.infused.name=Зачарований череп
+item.wheat.name=Стара пшениця
+item.seeds.name=Старе насіння пшениці
+item.carrots.name=Стара морква
+
+# Potions
+
+potion.fcFortune=Удача
+potion.fcLooting=Здобич
+potion.fcTrueSight=Істинний зір
+potion.hunger=Харчове отруєння
+
+# Containers
+
+container.fcFurnaceBrick=Цегляна піч
+container.fcHamper=Великий кошик
+container.fcMillStone=Жорно
+
+# Entities
+
+entity.fcJungleSpider.name=Тропічний павук
+entity.addonVillagerFarmer.name=Фермер
+entity.addonVillagerBlacksmith.name=Коваль
+entity.addonVillagerButcher.name=М'ясник
+entity.addonVillagerLibrarian.name=Бібліотекар
+entity.addonVillagerPriest.name=Священник
+
+# KeyBindings
+
+key.special=Альтернативне використання
+
+# Messages to the player
+
+item.fcItemWaterWheel.placementObstructed=Щось заважає встановити водяне колесо - можливо, ви самі
+item.fcItemWaterWheel.notEnoughRoom=Недостатньо місця для водяного колеса
+message.windMill.placementObstructed=Щось заважає встановити вітряк - можливо, ви самі
+message.windMill.notEnoughRoom=Недостатньо місця для вітряка (ці штуки ВЕЛИЧЕЗНІ!)
+item.fcItemWindMillVertical.tooFewAxles=Недостатньо вертикальних валів для встановлення вітряка
+tile.beacon.playerBound=Ви прив'язалися до цього маяка
+tile.beacon.invalid=Некоректне місце відродження
+tile.beacon.notPresent=Ваш маяк зник
+tile.beacon.tooFar=Ваш маяк надто далеко
+tile.beacon.obstructed=Доступ до вашого маяка ускладнений
+tile.beacon.unknown=Невідома помилка під час відродження
+tile.bed.sleepImpossible=Ви надто стривожені, щоб відпочивати
+tile.fcBlockHandCrank.playerExhausted=Ви надто виснажені для ручної праці
+item.enchantedBook.languageUnfamiliar=Мова цього тексту вам незнайома
+message.death.newSpawn=Вас пустили за вітром...
+message.death.oldSpawn=Це місце вам знайоме...
+
+# Deaths
+
+death.attack.fcSaw=%1$s пошматований пилкою
+death.attack.fcChoppingBlock=%1$s покладений на плаху
+death.attack.fcGroth=%1$s став єдиним цілим із жовною
+death.attack.fcGrothSpores=Імунітет %1$s не впорався зі спорами жовни
+death.attack.fcMelon=%1$s розчавлений кавуном
+death.attack.fcPumpkin=%1$s надто буквально сприйняв пропозицію вдягнути гарбуз на голову
+death.attack.fcGloom=%1$s поглинутий темрявою
+
+# Diff levels
+
+difficulty.standard.name=Стандартний
+difficulty.standard.description=Стандартне виживання.
+difficulty.standard.description2=Рекомендовано досвідченим гравцям
+difficulty.standard.description3=та любителям випробувань.
+
+difficulty.relaxed.name=Розслаблений
+difficulty.relaxed.description=Полегшене виживання.
+difficulty.relaxed.description2=Рекомендовано новачкам і тим,
+difficulty.relaxed.description3=хто не любить поспішати.
+
+# Status effects
+
+status.invalid=Помилка
+
+status.gloom.gloom=Морок
+status.gloom.dread=Страх
+status.gloom.terror=Жах
+
+status.hunger.peckish=Зголоднів
+status.hunger.hungry=Голодний
+status.hunger.famished=Дуже голодний
+status.hunger.emaciated=Знесилений
+status.hunger.starving=Виснажений
+
+status.health.hurt=Забій
+status.health.injured=Травма
+status.health.wounded=Поранення
+status.health.crippled=Каліцтво
+status.health.dying=При смерті
+
+status.fat.plump=Повнуватий
+status.fat.chubby=Пухкенький
+status.fat.fat=Товстий
+status.fat.obese=Ожирівший
+
+# Commands
+
+commands.difficulty.usage=/difficulty [рівень складності]
+commands.difficulty.unknown=Невідомий рівень складності
+commands.difficulty.current=Поточний рівень складності - 
+commands.difficulty.set=Встановлено рівень складності - 
+
+# Menu strings
+
+selectWorld.difficulty=Рівень складності
+selectWorld.gameMode=Режим:
+selectWorld.gameMode.survival=Хардкорне виживання
+selectWorld.gameMode.hardcore=Одне життя
+
+deathScreen.respawn=Відродитися в випадковому місці
+deathScreen.respawnNearby=Відродитися неподалік
+
+# Colored items
+
+wool.black.name=Чорний клубок
+wool.red.name=Червоний клубок
+wool.green.name=Зелений клубок
+wool.brown.name=Коричневий клубок
+wool.blue.name=Синій клубок
+wool.purple.name=Фиолетовий клубок
+wool.cyan.name=Бірюзовий клубок
+wool.lightGray.name=Світло-сірий клубок
+wool.gray.name=Сірий клубок
+wool.pink.name=Рожевий клубок
+wool.lime.name=Лаймовий клубок
+wool.yellow.name=Жовтий клубок
+wool.lightBlue.name=Блакитний клубок
+wool.magenta.name=Пурпурний клубок
+wool.orange.name=Оранжевий клубок
+wool.white.name=Білий клубок
+
+woolKnit.black.name=Чорна тканина
+woolKnit.red.name=Червона тканина
+woolKnit.green.name=Зелена тканина
+woolKnit.brown.name=Коричнева тканина
+woolKnit.blue.name=Синя тканина
+woolKnit.purple.name=Фіолетова тканина
+woolKnit.cyan.name=Бірюзова тканина
+woolKnit.lightGray.name=Світло-сіра тканина
+woolKnit.gray.name=Сіра тканина
+woolKnit.pink.name=Рожева тканина
+woolKnit.lime.name=Лаймова тканина
+woolKnit.yellow.name=Жовта тканина
+woolKnit.lightBlue.name=Блакитна тканина
+woolKnit.magenta.name=Пурпурна тканина
+woolKnit.orange.name=Оранжева тканина
+woolKnit.white.name=Біла тканина
+
+candle.black.name=Чорна свічка
+candle.red.name=Червона свічка
+candle.green.name=Зелена свічка
+candle.brown.name=Коричнева свічка
+candle.blue.name=Синя свічка
+candle.purple.name=Фіолетова свічка
+candle.cyan.name=Бірюзова свічка
+candle.lightGray.name=Світло-сіра свічка
+candle.gray.name=Сіра свічка
+candle.pink.name=Рожева свічка
+candle.lime.name=Лаймова свічка
+candle.yellow.name=Жовта свічка
+candle.lightBlue.name=Блакитна свічка
+candle.magenta.name=Пурпурна свічка
+candle.orange.name=Оранжева свічка
+candle.white.name=Біла свічка
