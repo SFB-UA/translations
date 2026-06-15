@@ -1,4 +1,6 @@
-# Блоки
+#
+# Blocks
+#
 
 tile.fcBlockArcaneVessel.name=Посудина дракона
 tile.fcBlockScrewPump.name=Шнековий насос
@@ -310,8 +312,8 @@ tile.fcSandstoneMoulding.pedestal.name=П’єдестал з пісковика
 tile.fcSandstoneMoulding.table.name=Стіл з пісковика
 
 # tile.fcBlockAestheticOpaqueEarth.name=Aesthetic Opaque Earth
-tile.fcBlockAestheticOpaqueEarth.blight.name=Чума
-tile.fcBlockAestheticOpaqueEarth.blight3.name=Зріла чума
+tile.fcBlockAestheticOpaqueEarth.blight.name=Бур'ян
+tile.fcBlockAestheticOpaqueEarth.blight3.name=Зрілий Бур'ян
 tile.fcBlockAestheticOpaqueEarth.packed.name=Щільна земля
 tile.fcBlockAestheticOpaqueEarth.dung.name=Блок гною
 tile.fcBlockSlabDirt.name=Земляна плита
@@ -320,7 +322,9 @@ tile.fcBlockSlabDirt.packed.name=Щільна земляна плита
 tile.fcBlockSlabFalling.name=Гравійна плита
 tile.fcBlockSlabFalling.sand.name=Піщана плита
 
+#
 # Items
+#
 
 item.fcItemBucketCement.name=Відро з цементом
 item.fcItemWolfChopRaw.name=Сира вовчатина
@@ -526,7 +530,9 @@ item.fcItemBark.birch.name=Березова кора
 item.fcItemBark.jungle.name=Кора тропічного дерева
 item.fcItemBark.bloodwood.name=Кора кривавого дерева
 
+#
 # Vanilla blocks
+#
 
 tile.tnt.name=Порохова бочка
 tile.mushroom.name=Старий гриб
@@ -553,7 +559,9 @@ tile.sapling.spruceMature.name=Зрілий саджанець ялини
 tile.sapling.birchMature.name=Зрілий саджанець берези
 tile.sapling.jungleMature.name=Зрілий саджанець тропічного дерева
 
+#
 # Vanilla items
+#
 
 item.cauldron.name=Бак
 item.mushroomStew.name=Грибний крем-суп
@@ -568,20 +576,26 @@ item.wheat.name=Стара пшениця
 item.seeds.name=Старе насіння пшениці
 item.carrots.name=Стара морква
 
+#
 # Potions
+#
 
 potion.fcFortune=Удача
 potion.fcLooting=Здобич
 potion.fcTrueSight=Істинний зір
 potion.hunger=Харчове отруєння
 
+#
 # Containers
+#
 
 container.fcFurnaceBrick=Цегляна піч
 container.fcHamper=Великий кошик
 container.fcMillStone=Жорно
 
+#
 # Entities
+#
 
 entity.fcJungleSpider.name=Тропічний павук
 entity.addonVillagerFarmer.name=Фермер
@@ -590,11 +604,15 @@ entity.addonVillagerButcher.name=М'ясник
 entity.addonVillagerLibrarian.name=Бібліотекар
 entity.addonVillagerPriest.name=Священник
 
+#
 # KeyBindings
+#
 
 key.special=Альтернативне використання
 
+#
 # Messages to the player
+#
 
 item.fcItemWaterWheel.placementObstructed=Щось заважає встановити водяне колесо - можливо, ви самі
 item.fcItemWaterWheel.notEnoughRoom=Недостатньо місця для водяного колеса
@@ -613,7 +631,9 @@ item.enchantedBook.languageUnfamiliar=Мова цього тексту вам н
 message.death.newSpawn=Вас пустили за вітром...
 message.death.oldSpawn=Це місце вам знайоме...
 
+#
 # Deaths
+#
 
 death.attack.fcSaw=%1$s пошматований пилкою
 death.attack.fcChoppingBlock=%1$s покладений на плаху
@@ -623,7 +643,9 @@ death.attack.fcMelon=%1$s розчавлений кавуном
 death.attack.fcPumpkin=%1$s надто буквально сприйняв пропозицію вдягнути гарбуз на голову
 death.attack.fcGloom=%1$s поглинутий темрявою
 
+#
 # Diff levels
+#
 
 difficulty.standard.name=Стандартний
 difficulty.standard.description=Стандартне виживання.
@@ -635,7 +657,9 @@ difficulty.relaxed.description=Полегшене виживання.
 difficulty.relaxed.description2=Рекомендовано новачкам і тим,
 difficulty.relaxed.description3=хто не любить поспішати.
 
+#
 # Status effects
+#
 
 status.invalid=Помилка
 
@@ -660,14 +684,18 @@ status.fat.chubby=Пухкенький
 status.fat.fat=Товстий
 status.fat.obese=Ожирівший
 
+#
 # Commands
+#
 
 commands.difficulty.usage=/difficulty [рівень складності]
 commands.difficulty.unknown=Невідомий рівень складності
 commands.difficulty.current=Поточний рівень складності - 
 commands.difficulty.set=Встановлено рівень складності - 
 
-# Menu strings
+#
+# Menu
+#
 
 selectWorld.difficulty=Рівень складності
 selectWorld.gameMode=Режим:
@@ -677,7 +705,9 @@ selectWorld.gameMode.hardcore=Одне життя
 deathScreen.respawn=Відродитися в випадковому місці
 deathScreen.respawnNearby=Відродитися неподалік
 
+#
 # Colored items
+#
 
 wool.black.name=Чорний клубок
 wool.red.name=Червоний клубок
